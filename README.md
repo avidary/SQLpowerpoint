@@ -1,2 +1,2 @@
 # SQLpowerpoint
-Power point for MSSQL  northwind DB
+Power point for MSSQL  northwind DB toturial
